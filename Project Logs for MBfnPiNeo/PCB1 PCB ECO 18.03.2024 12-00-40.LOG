@@ -1,0 +1,16 @@
+Change Component Comment : Designator=H1 Old Comment=* New Comment=3.2
+Change Component Comment : Designator=H2 Old Comment=* New Comment=3.2
+Change Component Comment : Designator=H3 Old Comment=* New Comment=3.2
+Change Component Comment : Designator=H4 Old Comment=* New Comment=3.2
+Change component parameters: Designator = "H1" ("H1"); Footprint = "Отверстие 3,2"; UniqueID = "\UCGSLJYK" ("\UCGSLJYK")
+Change component parameters (AddParameter): Name = "Case"; Value = "Отверстие"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "Отверстие 3,2"; UniqueID = "\AYUUMVDS" ("\AYUUMVDS")
+Change component parameters (AddParameter): Name = "Case"; Value = "Отверстие"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "Отверстие 3,2"; UniqueID = "\NEAXKECK" ("\NEAXKECK")
+Change component parameters (AddParameter): Name = "Case"; Value = "Отверстие"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "Отверстие 3,2"; UniqueID = "\LXPQCHVJ" ("\LXPQCHVJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "Отверстие"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.2"; VariantName = "[No Variations]"

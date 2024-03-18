@@ -1,0 +1,41 @@
+Change Component Comment : Designator=R3 Old Comment=* New Comment=100 Ом
+Change Component Comment : Designator=R4 Old Comment=* New Comment=100 Ом
+Change Component Comment : Designator=R5 Old Comment=* New Comment=360 Ом
+Change Component Comment : Designator=R7 Old Comment=* New Comment=360 Ом
+Change Component Comment : Designator=R8 Old Comment=* New Comment=360 Ом
+Change Component Comment : Designator=R6 Old Comment=* New Comment=470 Ом
+Change Component Comment : Designator=D1 Old Comment=* New Comment=SMAJ 5.0A
+Change Component Comment : Designator=X11 Old Comment=* New Comment=XH_7PIN_2.54
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Конденсатор SMD тантал 4x7"; UniqueID = "\CMCBDTMJ" ("\CMCBDTMJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "4x7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Конденсатор SMD тантал 4x7"; UniqueID = "\EVPYSXCN" ("\EVPYSXCN")
+Change component parameters (AddParameter): Name = "Case"; Value = "4x7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X10" ("X10"); Footprint = "(1X7) PIN XH 2.54 HEADR"; UniqueID = "\KMGJPBSP" ("\KMGJPBSP")
+Change component parameters (AddParameter): Name = "Case"; Value = "XH 7PIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH_7PIN_2.54"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "Диод SS14"; UniqueID = "\BNIGSPGM" ("\BNIGSPGM")
+Change component parameters (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SMAJ 5.0A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "SMD 1206 Резистор"; UniqueID = "\VBWDLIOW" ("\VBWDLIOW")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "SMD 1206 Резистор"; UniqueID = "\SUTDLMJJ" ("\SUTDLMJJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "SMD 1206 Резистор"; UniqueID = "\OSVPFHPJ" ("\OSVPFHPJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "360 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "SMD 1206 Резистор"; UniqueID = "\PCQABAQM" ("\PCQABAQM")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "SMD 1206 Резистор"; UniqueID = "\PYQSOOFW" ("\PYQSOOFW")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "360 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "SMD 1206 Резистор"; UniqueID = "\WUJJFJYQ" ("\WUJJFJYQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "360 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X11" ("X11"); Footprint = "(1X7) PIN XH 2.54 HEADR"; UniqueID = "\ESMUHWAD" ("\ESMUHWAD")
+Change component parameters (AddParameter): Name = "Case"; Value = "XH 7PIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH_7PIN_2.54"; VariantName = "[No Variations]"

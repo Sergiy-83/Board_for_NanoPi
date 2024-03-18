@@ -1,0 +1,8 @@
+Change Component Comment : Designator=X9 Old Comment=* New Comment=Audio jack 3.5
+Change Component Comment : Designator=X3 Old Comment=* New Comment=XH_3PIN_2.54
+Change component parameters: Designator = "X3" ("X3"); Footprint = "(1X2) PIN XH 2.54 HEADER"; UniqueID = "\HRKNGGNA" ("\HRKNGGNA")
+Change component parameters (AddParameter): Name = "Case"; Value = "XH 3PIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH_3PIN_2.54"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X9" ("X9"); Footprint = "3.5 AUDIO JACK MAMA"; UniqueID = "\TTXWQOXA" ("\TTXWQOXA")
+Change component parameters (AddParameter): Name = "Case"; Value = "Audio jack female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Audio jack 3.5"; VariantName = "[No Variations]"

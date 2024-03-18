@@ -1,9 +1,0 @@
-Change component parameters: Designator = "X4" ("X4"); Footprint = "(1X4) PIN XH 2.54 HEADR"; UniqueID = "\VDLKHFSM" ("\VDLKHFSM")
-Change component parameters (AddParameter): Name = "Case"; Value = "XH 4PIN"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "XH_4PIN_2.54"; VariantName = "[No Variations]"
-Change component parameters: Designator = "X5" ("X5"); Footprint = "(1X4) PIN XH 2.54 HEADR"; UniqueID = "\MOKPIEUW" ("\MOKPIEUW")
-Change component parameters (AddParameter): Name = "Case"; Value = "XH 4PIN"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "XH_4PIN_2.54"; VariantName = "[No Variations]"
-Change component parameters: Designator = "X6" ("X6"); Footprint = "(1X4) PIN XH 2.54 HEADR"; UniqueID = "\JNUSJSLX" ("\JNUSJSLX")
-Change component parameters (AddParameter): Name = "Case"; Value = "XH 4PIN"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "XH_4PIN_2.54"; VariantName = "[No Variations]"
